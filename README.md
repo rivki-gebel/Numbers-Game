@@ -1,31 +1,31 @@
-# משחק המהירות - Speed Game
+# Speed Game
 
-משחק המהירות הוא משחק אטרקטיבי המתבצע בדפדפן, עשוי ב-JavaScript, HTML5, ו-CSS. המשחק מעוצב בצורה מרהיבה עם עיצוב רספונסיבי המאפשר חוויה נעימה על מגוון מכשירים.
+The speed game is an attractive game played in the browser, made in JavaScript, HTML5, and CSS. The game is designed in a spectacular way with a responsive design that allows a pleasant experience on a variety of devices.
 ![screenShot1](img/levelsShot.png)
 ![screenShot1](img/gameShot.png)
 
 
-## הוראות המשחק:
+## Game Instructions:
 
-1. מופיעים על המסך 9 עיגולים של מספרים 1-9.
-2. כאשר המשחק מתחיל, יש טיימר המתחיל לספור.
-3. על השחקן ללחוץ על המספר המהבהב במהירות על מנת להרוויח נקודות.
-4. אם השחקן לוחץ על המספר המתאים בזמן, הוא מרוויח נקודות. אחרת, הנקודות ירדות ומונה החיים מתעדכן.
-5. אם מונה החיים של השחקן מגיע ל-0, המשחק נגמר.
+1. 9 circles of numbers 1-9 appear on the screen.
+2. When the game starts, there is a timer that starts counting.
+3. The player must click on the flashing number quickly in order to earn points.
+4. If the player clicks the appropriate number in time, he earns points. Otherwise, the points will decrease and the life counter will be updated.
+5. If the player's life counter reaches 0, the game is over.
 
-## רמות ודרגת קושי:
+## Levels and degree of difficulty:
 
-המשחק מכיל שלושה שלבים עם דרגת קושי שונה. ככל שהשחקן מתקדם בשלבים, המהירות עולה והזמן ללחיצה על המספרים נמוך יותר.
+The game contains three stages with different levels of difficulty. As the player progresses through the stages, the speed increases and the time to press the numbers decreases.
 
-## רישום וניהול שיאים:
+## Registration and record management:
 
-כדי לשמור את השיא שלך ולעקוב אחרי ההתקדמות שלך, עליך להירשם עם שם משתמש וסיסמה. הנתונים נשמרים ב-local storage של הדפדפן שלך.
+To save your record and track your progress, you must register with a username and password. The data is saved in the local storage of your browser.
 ![screenShot1](img/registerShot.png)
 
 
-## כיצד להתחיל:
+## How to start:
 
-1. הורד את הפרויקט למחשב שלך במקום הרצוי- `git clone https://github.com/rivki-gebel/Numbers-Game.git`
-2. פתח את הקובץ `home.html` בדפדפן שלך.
-3. הירשם עם שם משתמש וסיסמה.
-4. התחל לשחק ותהנה!
+1. Download the project to your computer in the desired location - `git clone https://github.com/rivki-gebel/Numbers-Game.git`
+2. Open the `home.html` file in your browser.
+3. Register with a username and password.
+4. Start playing and enjoy!
